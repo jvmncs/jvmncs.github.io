@@ -4,6 +4,7 @@ Hi, I'm Jason. I spend my time working on machine learning research and engineer
 My interests are all over the place, but most of my recent professional work has been related to the privacy and security of machine learning systems.
 <!-- Currently, I work at [Cape Privacy](https://capeprivacy.com), and I'm one of the maintainers of [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted).
 I also have a long history within the [OpenMined](https://openmined.com) community, which is where my interest in private machine learning began around 2017. -->
+
 Anything I write here is meant to be finished in under a day, and usually not more than a few hours. If an idea hasn't had its way with me by then, that's generally a bad sign for the work's authenticity & necessity. As such, this site is more of a journal than a blog.
 
 "Lingo colosseum" is a rough metonymy for "place of public language games".
